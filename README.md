@@ -1,2 +1,2 @@
 # CSS-My-Site
-Another simple project using HTML/CSS.
+Just another simple project using HTML/CSS.

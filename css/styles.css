@@ -76,7 +76,8 @@ span {
 .second-image {
     width: 25%;
     float: right;
-    margin-left: 30px;
+    /* margin-left: 30px; */
+    display: inline;
 }
 
 hr {
@@ -90,6 +91,7 @@ hr {
 
 .eating-again-class {
     color: #11999E;
+    margin-top: 150px;
 }
 
 .btn {
